@@ -1,6 +1,6 @@
 # Levantamento de Requisitos
 
-![Foto1](./Imagens/Projeto-Integrador/Foto1.jpeg)
+![Foto1](./Imagens/Foto1.jpeg)
 
 Tema: Imobiliaria
 
