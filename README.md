@@ -1,5 +1,7 @@
 # Levantamento de Requisitos
 
+![Foto1](./Documentos/Fotos prototipacao/Foto1.jpeg)
+
 Tema: Imobiliaria
 
 Seria um site onde todos podem anunciar casas a venda ou para locação. (SITE NÃO É FEITO PARA VENDAS E SIM PARA ANUNCIAR!!!!)
